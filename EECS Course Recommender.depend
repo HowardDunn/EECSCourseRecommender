@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1440528774 source:/home/dahdunn/Documents/C++ Projects/EEECS Course Recommender/EECS Course Recommender/course.cpp
+	"course.h"
+
+1440528765 /home/dahdunn/Documents/C++ Projects/EEECS Course Recommender/EECS Course Recommender/course.h
+	<vector>
+	<iostream>
+
+1440561318 source:/home/dahdunn/Documents/C++ Projects/EEECS Course Recommender/EECS Course Recommender/course_algorithms.cpp
+	"course.h"
+	"course_algorithms.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1440560203 /home/dahdunn/Documents/C++ Projects/EEECS Course Recommender/EECS Course Recommender/course_algorithms.h
+
